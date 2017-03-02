@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- ÷вета MARINA -->
+    <color name="mcolorMain">#4de2c2</color>
+    <color name="mcolorMainAlpha">#804de2c2</color>
+    <color name="mcolorTextBlack">#333333</color>
+    <color name="mcolorTextOff">#c8c8c8</color>
+    <color name="mcolorTextWhite">#eeffffff</color>
+    <!-- делени€ на шкале-->
+    <color name="mcolorLine">#999999</color>
+    <color name="mcolorLineDis">#DDDDDD</color>
+    <!-- ÷вета дл€ градусника -->
+    <!--<color name="mcolorMin">#99ffff</color>-->
+    <!--<color name="mcolorMax">#ff99cc</color>-->
+    <color name="mcolorMin">#a2d9f7</color>
+    <color name="mcolorMax">#f4b2b6</color>
+<!--мои цвета дополнительные-->
+    <color name="mcolorDivider">#55000000</color>
+
+</resources>

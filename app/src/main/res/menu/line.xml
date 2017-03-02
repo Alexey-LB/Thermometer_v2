@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/actionToggleValues"
+        android:title="Отображать значения">
+    </item>
+    <item
+        android:id="@+id/actionToggleIcons">
+    </item>
+    <item
+        android:id="@+id/actionToggleFilled"
+        android:title="Заливка цветом">
+    </item>
+    <item
+        android:id="@+id/actionToggleCircles"
+        android:title="Выделение точек изм.">
+    </item>
+    <item
+        android:id="@+id/actionToggleCubic"
+        android:title="Вертикальное сглаж.">
+    </item>
+    <item
+        android:id="@+id/actionToggleStepped"
+        android:title="Прямоуголное выравнивание">
+    </item>
+    <item
+        android:id="@+id/actionToggleHorizontalCubic"
+        android:title="Горизонтальное сглажив">
+    </item>
+    <item
+        android:id="@+id/actionToggleHighlight"
+        android:title="Вкл/выкл Отображ.Выделен.Знач..">
+    </item>
+    <item
+        android:id="@+id/animateX"
+        android:title="Анимирование по Х">
+    </item>
+        <item
+        android:id="@+id/animateY"
+        android:title="Анимирование по У">
+    </item>
+            <item
+        android:id="@+id/animateXY"
+        android:title="Анимирование по ХУ">
+    </item>
+    <item
+        android:id="@+id/actionToggleAdjustXLegend">
+    </item>
+    <item
+        android:id="@+id/actionSave"
+        android:title="Сохранение в галерее снимков">
+    </item>
+    <item
+        android:id="@+id/actionTogglePinch"
+        android:title="Увеличение одновременно или отдельно">
+    </item>
+    <item
+        android:id="@+id/actionToggleAutoScaleMinMax"
+        android:title="Авто увеличение/уменьшение">
+    </item>
+</menu>
